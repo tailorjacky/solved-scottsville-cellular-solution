@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-scottsville-cellular-solution
+<br>
+Open the Scottsville Cellular Solution (Scottsville Cellular Solution.sln) file contained in the Scottsville Cellular Solution folder. The Calculate Order button should calculate and display the total number of cell phones ordered and the total price of the order. Each cell phone costs $85. Code the button’s Click event procedure. Include comments in the Code Editor window. Save the solution then start and test the application.
